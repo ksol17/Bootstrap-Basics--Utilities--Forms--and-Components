@@ -31,7 +31,7 @@
 <br />
 
 <h2><ol>How to Use</ol></h2>
-    <ol>Clone the repository(git clone https://github.com/your-repo/event-center.git)</ol>
+    <ol>Clone the repository(git clone https://github.com/ksol17/Bootstrap-Basics--Utilities--Forms--and-Components.git)</ol>
     <ol>Open index.html in your browser</ol>
     <ol>Navigate through the website using the menu</ol>
 
