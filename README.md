@@ -10,6 +10,7 @@
   <li>ASSETS FOLDER: Contains images or otehr resources needed for the page.</li>
 </ul>
 
+
 <h2>FEATURES</h2>
 <h3>Responsive Layout</h3>
 <p>Utilizes Bootstrap's container and grid system to structure the page layout, ensuring it is responsive across devices.</p>
@@ -27,10 +28,14 @@
 <h3>Image Section</h3>
 <p>A table to display hard-coded user data.</p>
 
+<br />
+
 <h2><ol>How to Use</ol></h2>
     <ol>Clone the repository(git clone https://github.com/your-repo/event-center.git)</ol>
     <ol>Open index.html in your browser</ol>
     <ol>Navigate through the website using the menu</ol>
+
+<br />
 
 
 <h2><ul>CREDITS</ul></h2>
