@@ -11,10 +11,10 @@
 </ul>
 
 <h2>FEATURES</h2>
-<h3><ul>Responsive Layout</ul></h3>
-    <p><li>Utilizes Bootstrap's container and grid system to structure the page layout, ensuring it is responsive across devices.</li></p>
+<h3>Responsive Layout</h3>
+<p>Utilizes Bootstrap's container and grid system to structure the page layout, ensuring it is responsive across devices.</p>
 
-<h3><ul>Registration Form</ul></h3>
+<ul>Registration Form</ul>
     <p><li>First Name</li></p>
     <p><li>Last Name</li></p>
     <p><li>Email (validated as required)</li></p>
@@ -22,7 +22,7 @@
     <p><li>Terms and Conditions checkbox</li></p>
 
 
-<h3><ul>Data Table</ul></h3>
+<h3>Data Table</h3>
     <p><ul>A table to display hard-coded user data.</ul></p>
 
 <h3><ul>Image Section</ul></h3>
