@@ -15,15 +15,15 @@
 <p>Utilizes Bootstrap's container and grid system to structure the page layout, ensuring it is responsive across devices.</p>
 
 <h3><ul>Registration Form</ul></h3>
-    <p><li>First Name</li></p>
-    <p><li>Last Name</li></p>
-    <p><li>Email (validated as required)</li></p>
-    <p><li>Password (validated as required)</li></p>
-    <p><li>Terms and Conditions checkbox</li></p>
+    <li>First Name</li>
+    <li>Last Name</li>
+    <li>Email (validated as required)</li>
+    <li>Password (validated as required)</li>
+    <li>Terms and Conditions checkbox</li>
 
 
 <h3>Data Table</h3>
-    <p><ul>A table to display hard-coded user data.</ul></p>
+    <ul>A table to display hard-coded user data.</ul>
 
 <h3>Image Section</h3>
     <p>A table to display hard-coded user data.</p>
@@ -36,7 +36,7 @@ git clone https://github.com/your-repo/event-center.git
 2️⃣ Open index.html in your browser
 3️⃣ Navigate through the website using the menu
 
-<h2><ul>Credits</ul></h2>
+<h2><ul>CREDITS</ul></h2>
 <p><li>📸 Images sourced from Unsplash & iStock.</li></p>
 <p><li>Developed by Karla Pauta</li></p>
 
