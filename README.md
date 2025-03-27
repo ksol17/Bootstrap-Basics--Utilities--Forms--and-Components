@@ -1,4 +1,4 @@
-🎉 <h1>Bootstrap Basics</h1>
+<h1>🎉 Bootstrap Basics</h1>
 
 <h2>Overview</h2>
 <p>This project demonstrates the use of Bootstrap to build  a fully functional, responsive webpage. It incorporates Bootstrap's utilities, forms, tables, images, buttons, and navigation components. </p>
@@ -21,20 +21,17 @@
     <li>Password (validated as required)</li>
     <li>Terms and Conditions checkbox</li>
 
-
 <h3>Data Table</h3>
-    <ul>A table to display hard-coded user data.</ul>
+<p>A table to display hard-coded user data.</p>
 
 <h3>Image Section</h3>
-    <p>A table to display hard-coded user data.</p>
+<p>A table to display hard-coded user data.</p>
 
-<h2>How to Use</h2>
-1️⃣ Clone the repository
+<h2><ol>How to Use</ol></h2>
+    <ol>Clone the repository(git clone https://github.com/your-repo/event-center.git)</ol>
+    <ol>Open index.html in your browser</ol>
+    <ol>Navigate through the website using the menu</ol>
 
-git clone https://github.com/your-repo/event-center.git
-
-2️⃣ Open index.html in your browser
-3️⃣ Navigate through the website using the menu
 
 <h2><ul>CREDITS</ul></h2>
 <p><li>📸 Images sourced from Unsplash & iStock.</li></p>
